@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Check Reservation Case">
+
+<test name="Check Reservation Test">
+    <classes>
+        <class name="testCases.CheckReservation" ></class>  
+    </classes>
+</test>
+
+</suite>

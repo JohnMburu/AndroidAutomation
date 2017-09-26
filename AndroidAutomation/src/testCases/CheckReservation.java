@@ -28,7 +28,7 @@ public class CheckReservation {
 	}
 
 	@Test
-	public void Login() {
+	public void CheckReservation() {
 		//Declare Variables
 		String Username = "mburujr@gmail.com";
 		String Password = "Pass12345";
